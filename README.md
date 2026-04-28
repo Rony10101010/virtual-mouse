@@ -146,5 +146,4 @@ detector = HandDetector(detection_con=0.8, max_hands=1)
 
 
 ## License
-
-[MIT License](LICENSE) — or replace with your chosen license.
+MIT License
