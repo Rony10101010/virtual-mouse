@@ -144,17 +144,6 @@ detector = HandDetector(detection_con=0.8, max_hands=1)
 
 ---
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature/my-feature`
-3. Commit your changes: `git commit -m "Add my feature"`
-4. Push to the branch: `git push origin feature/my-feature`
-5. Open a Pull Request
-
-Please keep PRs focused and include a brief description of what changed and why.
-
----
 
 ## License
 
